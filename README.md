@@ -20,6 +20,8 @@ This lab focuses on:
 - **Real-time Updates**: Uses `useState` to reflect changes immediately
 - **Simple Layout**: Designed to help reinforce the React event/state update cycle
 
+![Screenshot of Samosa Selector Web Game](./src/assets/screenshot.png)
+
 ## 📂 Project Structure
 ```
 src/
