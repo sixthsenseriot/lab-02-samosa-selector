@@ -33,7 +33,7 @@ const App = () => {
                 <h1>Samosa Selector</h1>
                 <h2>Count: {count}</h2>
                 <img
-                    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Samosa-and-Chatni.jpg"
+                    src="https://static.vecteezy.com/system/resources/previews/050/018/866/non_2x/fresh-tasty-samosa-cutout-isolated-on-transparent-background-ideal-for-product-banners-social-media-posts-and-creative-cover-designs-free-png.png"
                     alt=""
                     className="samosa"
                     onClick={updateCount}
